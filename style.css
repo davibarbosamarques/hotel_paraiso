@@ -62,7 +62,7 @@ header li:last-child{
 /*--------HERO-------*/
 
 .hero{
-    background-image:url(img/hotel.avif) ;
+    background-image:url(hotel.avif) ;
     background-size: cover;
     min-height: 100vh;
     color: white ;
