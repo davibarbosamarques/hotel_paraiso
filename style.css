@@ -12,7 +12,7 @@ nav,li{
     justify-content: flex-end;
 }
 a{
-    text-decoration: none;
+    text-decoration: none !important;
     cursor: pointer;
     opacity: 0.9;
 }
