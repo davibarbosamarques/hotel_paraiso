@@ -39,6 +39,7 @@ header nav{
 }
 header li a{
     color: #191c19;
+    text-decoration:none;
 }
 header li{
      margin: 0px 15px;
